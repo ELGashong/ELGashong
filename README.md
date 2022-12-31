@@ -1,16 +1,14 @@
-### Hi there 👋
+# Salutaions! You made it to my repository! 
+vv You can find me on here vv
 
-<!--
-**ELGashong/ELGashong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram Account](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/pixsicle.studios/ "Art Account")
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=ELGashong&color=yellow&label=Total+Visitors)
+
+
+
+Hey, I am a Peter Esclamado, I am a self-taught programmer In high school. Currently residing in Canada and honing my skills and techniques. The passion I withhold fuels my motivation to keep pushing forward and taking pride of my progresses.
+
+
+
