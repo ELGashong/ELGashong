@@ -10,5 +10,15 @@ vv You can find me on here vv
 
 Hey, I am a Peter Esclamado, I am a self-taught programmer In high school. Currently residing in Canada and honing my skills and techniques. The passion I withhold fuels my motivation to keep pushing forward and taking pride of my progresses.
 
+___
 
+## Languages & tools being learned:
+
+[![My Skills](https://skillicons.dev/icons?i=unity,vscode,cs,html,css,git&theme=light)](https://skillicons.dev)
+
+---
+## Stats:
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELGashong&show_icons=true&theme=tokyonight)
 
