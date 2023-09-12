@@ -7,7 +7,7 @@
 
 <br>
 
-Hey, I am Peter Esclamado, I am a self-taught programmer In high school. Currently residing in Canada and honing my skills and techniques. The passion I withhold fuels my motivation to keep pushing forward and taking pride of my progresses. My end goal is to become a fully capable game developer.
+Hey, I am a self-taught programmer In high school. Currently residing in Canada and honing my skills and techniques. The passion I withhold fuels my motivation to keep pushing forward and taking pride of my progresses. My end goal is to become a fully capable game developer.
 
 ___
 
